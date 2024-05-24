@@ -1,0 +1,10 @@
+openai
+oauth2client
+selenium
+gspread
+bs4
+datetime
+pandas
+urllib3
+#sys
+#os
